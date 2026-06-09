@@ -1,0 +1,5 @@
+{
+  "name": "cópia AnonimizaLocal",
+  "description": "Anonimização local de documentos (Word, Excel, PDF) para proteção de dados sensíveis antes do envio para a nuvem.",
+  "requestFramePermissions": []
+}
